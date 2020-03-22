@@ -1,0 +1,11 @@
+1-What can you conclude about the optimal setting of N? Explain your answer.
+
+It is visible that when N is 25 the sample has the least distortion and is smoothest.
+ At N= 5 when using the same thresholding method as 25 without also defining a horizontal distance between each peak
+ we found that more peaks could be detected
+
+
+
+Thresholding:
+Found the maximum vertical high in the signal and multipled it by a constant K = 0.6 
+Anything above this is an R. each signal resulted in 8 peaks
